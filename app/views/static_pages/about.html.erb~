@@ -7,6 +7,7 @@
         with <a href="http://railstutorial.org/">Ruby on Rails</a>. This
         is the sample application for the tutorial.
     </p>
+    <h3><%= tester() %></h3>
 
 
 
